@@ -1,0 +1,46 @@
+1. Logistic Regression
+Training data = 0.995
+Test data = 0.986
+Precision = 
+
+Confusion Matrix
+[[1312 17]
+ [15 1519]]
+
+
+2. Naive Bayes
+
+Accuracy on training set: 0.946
+Accuracy on test set: 0.944
+Precision: 0.974
+Confusion matrix
+[[1376   35]
+ [ 126 1326]]
+
+
+3. SVM
+Accuracy on training set: 0.965
+Accuracy on test set: 0.961
+Precision: 0.961
+Confusion matrix
+[[1356   55]
+ [  55 1397]]
+
+4. RandomForest
+
+Accuracy on training set: 1.000
+Accuracy on test set: 0.988
+Precision: 0.987
+
+Confusion matrix
+[[1392   19]
+ [  14 1438]]
+
+5. KNN
+Accuracy on training set: 0.972
+Accuracy on test set: 0.959
+Precision: 0.989
+
+Confusion matrix
+[[1403    8]
+ [ 109 1343]
